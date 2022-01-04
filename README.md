@@ -1,7 +1,7 @@
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/2/2d/Epitech.png)
 
 <h1 align="center">Hi 👋, I'm Maxime</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santosmaxime&label=Profile%20views&color=3465a4&style=flat" alt="santosmaxime" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=santosmaxime&label=Profile%20views&color=204a87&style=flat" alt="santosmaxime" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santosmaxime" alt="santosmaxime" /></a> </p>
 
