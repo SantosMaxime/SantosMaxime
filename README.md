@@ -8,7 +8,7 @@ s![Logo](https://upload.wikimedia.org/wikipedia/commons/2/2d/Epitech.png)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/maxime_snts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maxime_snts" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/user/Maxikan#3246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/user/Maxikan#3246" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/user/Maxikan#3246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/user/299553345167949825" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
