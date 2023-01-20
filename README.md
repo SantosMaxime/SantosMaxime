@@ -1,3 +1,5 @@
+![Logo](https://upload.wikimedia.org/wikipedia/commons/2/2d/Epitech.png)
+
 <h1 align="center">Hi 👋, I'm Maxime</h1>
 <h3 align="center">Currently Studying at Epitech Montpellier</h3>
 
