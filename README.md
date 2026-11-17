@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Maxime</h1>
-<h2 align="center">Full-Stack Developer</h2>
-<h3 align="center">AND</h3>
-<h2 align="center">Alumni at Epitech</h2>
+### Hi, I'm Maxime 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santosmaxime&label=Profile%20views&color=3465a4&style=flat-square" alt="santosmaxime" /> </p>
+Full-stack developer and Epitech graduate. I build web apps end to end, mostly in
+**TypeScript, React, Node.js and PostgreSQL**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mxm-santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/mxm-santos" height="30" width="40" /></a>
-<a href="https://instagram.com/maxime_snts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/maxime_snts" height="30" width="40" /></a>
-</p>
+[![Stack](https://skillicons.dev/icons?i=ts,react,nodejs,postgres,docker)](#)
+
+- 💼 Most of my day-to-day work lives in private repos. Below are things I build for myself.
+- 🛠️ **[pms](https://github.com/SantosMaxime/pms)**: a tiny CLI to jump between projects without digging through folders.
+- 🎮 **[Streamdeck-Steam-Achievements](https://github.com/SantosMaxime/Streamdeck-Steam-Achievements)**: a Stream Deck plugin that shows your Steam achievements live.
+- 🌱 Currently exploring: [one real thing, or delete this line]
+
+📫 [LinkedIn](https://linkedin.com/in/mxm-santos)
